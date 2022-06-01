@@ -1,5 +1,3 @@
-const NotesModel = require("./notesModel");
-
 class NotesView {
 
   constructor(model) {
